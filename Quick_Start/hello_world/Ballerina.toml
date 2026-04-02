@@ -1,0 +1,9 @@
+[package]
+org = "sachindu"
+name = "hello_world"
+version = "0.1.0"
+distribution = "2201.13.3"
+title = "Hello_World"
+
+[build-options]
+sticky = true
