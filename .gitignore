@@ -1,0 +1,31 @@
+# WSO2 Integrator
+/repository/
+/logs/
+*.log
+*.tmp
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build artifacts
+target/
+*.class
+*.jar
+*.war
+
+# Node modules (if applicable)
+node_modules/
+npm-debug.log
+
+# Environment files
+.env
+.env.local
+
+# OS files
+Thumbs.db
+.DS_Store
